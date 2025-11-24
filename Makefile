@@ -4,7 +4,10 @@ install:
 brain-games:
 	node bin/brain-games.js
 
+lint:
+	npx eslint .
+
 publish:
 	npm publish --dry-run
 
-.PHONY: install brain-games publish
+.PHONY: install brain-games lint publish
