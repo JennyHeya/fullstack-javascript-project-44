@@ -17,9 +17,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/JennyHeya/fullstack-javascript-project-44/issues"
   },
-  "homepage": "https://github.com/JennyHeya/fullstack-javascript-project-44#readme"
+  "homepage": "https://github.com/JennyHeya/fullstack-javascript-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
