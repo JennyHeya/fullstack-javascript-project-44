@@ -6,4 +6,6 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=JennyHeya_fullstack-javascript-project-44)](https://sonarcloud.io/summary/new_code?id=JennyHeya_fullstack-javascript-project-44)
 
 Запись терминала:
-https://asciinema.org/a/twJAdc27SS5Cy7217GeMN41nc
+1. brain-even: https://asciinema.org/a/twJAdc27SS5Cy7217GeMN41nc
+
+2. brain-calc: https://asciinema.org/a/JcvrMBHHftrOhZ4MUE9KWdsgY
