@@ -1,4 +1,4 @@
-import getRandomInt from '../src/utils.js';
+import getRandomInt from '../utils.js';
 
 const DESCRIPTION = 'What is the result of the expression?';
 
