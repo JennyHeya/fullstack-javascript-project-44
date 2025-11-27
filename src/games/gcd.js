@@ -1,4 +1,4 @@
-import getRandomInt from '../utils.js';
+import getRandomInt from '../utils.js'
 
 const DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
@@ -10,8 +10,8 @@ const gcd = (num1, num2) => {
     b = a % b
     a = temp
   }
-  return a;
-};
+  return a
+}
 
 const generateRound = () => {
   const num1 = getRandomInt(1, 100)
@@ -19,6 +19,6 @@ const generateRound = () => {
   const question = `${num1} ${num2}`
   const correctAnswer = String(gcd(num1, num2))
   return { question, correctAnswer }
-};
+}
 
 export { DESCRIPTION, generateRound }
